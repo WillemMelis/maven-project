@@ -17,6 +17,6 @@ public class Greeter {
     * @return greeting string
     */
   public final String greet(final String someone) {
-    return String.format("Hello alles goed, %s!", someone);
+    return String.format("Hello alles goed of niet , %s!", someone);
   }
 }
